@@ -1,4 +1,4 @@
-# AICDSS
+# ai-cdss
 
 **Contextual Importance and Utility for Explainable AI with Images
 
