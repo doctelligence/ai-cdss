@@ -18,3 +18,8 @@ https://dl.acm.org/doi/pdf/10.1145/3459926.3464753
 
 https://github.com/KaryFramling/ciu.image
 
+Others
+
+**A visual approach to explainable computerized clinical decision support
+
+https://www.sciencedirect.com/science/article/pii/S0097849320300935?casa_token=YTgyyqutzg4AAAAA:GTHvdl5qvwrPSVtBsJ3t5fTLAsjrw_ivQiecRFbee5uxIb1Syx4eU_eV4qZgQDTvQqwzUitBVw
