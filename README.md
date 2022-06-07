@@ -23,3 +23,10 @@ Others
 **A visual approach to explainable computerized clinical decision support
 
 https://www.sciencedirect.com/science/article/pii/S0097849320300935?casa_token=YTgyyqutzg4AAAAA:GTHvdl5qvwrPSVtBsJ3t5fTLAsjrw_ivQiecRFbee5uxIb1Syx4eU_eV4qZgQDTvQqwzUitBVw
+
+Example of why we need open-source XAI user interfaces
+
+**XAI-based Medical Decision Support
+System Model
+
+https://d1wqtxts1xzle7.cloudfront.net/65391799/ijsrp_p10869-with-cover-page-v2.pdf?Expires=1654607063&Signature=D-OLnjb7AYSmwfgOZ2c0CtqS-DkypUluieAxh~nRejcprTSfV9d1VTZsRuVIR0nqChNOJXHx1p2hcaSD2T0tWun~doHUL32f01nQhJSNYXiwAWJaxFY4VTH1THSJjscAk-mPhOCUnOaJ3BOWga7aMsCZ8~Du5QILpL5NPC28V-czzfTafqRWCEstD5Yho-DKTzBjBzmUa6aESsBnPHuSJZFjYHQ9TsGHptv0ISgVWL485t1nNMBWc5CHNjMRMsVwqzyw1GdDN5YJ6~JuUoe9kF9wzvCFHvma5I~-6uMZFGOkVPaBMcoCxjVblnuvwBLBJvxNsiUAwnMEj~1YGi9jXA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
