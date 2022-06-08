@@ -24,6 +24,9 @@ Others
 
 https://www.sciencedirect.com/science/article/pii/S0097849320300935?casa_token=YTgyyqutzg4AAAAA:GTHvdl5qvwrPSVtBsJ3t5fTLAsjrw_ivQiecRFbee5uxIb1Syx4eU_eV4qZgQDTvQqwzUitBVw
 
+**A new approach for interpretability and reliability in clinical risk prediction: Acute coronary syndrome scenario 
+https://pubmed.ncbi.nlm.nih.gov/34127242/
+
 Example of why we need open-source XAI user interfaces
 
 **XAI-based Medical Decision Support
