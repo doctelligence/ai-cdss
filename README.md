@@ -24,7 +24,7 @@ Others
 
 https://www.sciencedirect.com/science/article/pii/S0097849320300935?casa_token=YTgyyqutzg4AAAAA:GTHvdl5qvwrPSVtBsJ3t5fTLAsjrw_ivQiecRFbee5uxIb1Syx4eU_eV4qZgQDTvQqwzUitBVw
 
-Example of why we need open-source XAI user interfaces
+Example of why we need open-source XAI user interfaces for AI-CDSSs
 
 **XAI-based Medical Decision Support
 System Model
